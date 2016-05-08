@@ -1,0 +1,39 @@
+body {
+	background-color: #ddd;
+	margin: 0;
+	padding: 0;
+}
+.carousel {
+	margin: 50px auto;
+	width: 600px;
+}
+h1 {
+    text-align: center;
+    font-size: 18px;
+}
+h1+div {
+    text-align: center;
+}
+.photo {
+    height: auto;
+    width: 200px;
+}
+.wrapper {
+	margin: 0 auto;
+	width: 500px;
+}
+.wrapper p {
+    margin-left: 4px;
+    font: 400 13px/13px Arial, sans-serif;
+}
+.wrapper li {
+    margin-left: -15px;
+    font-size: 13px;
+}
+.wrapper a {
+    margin-left: 1%;
+    font-size: 13px;
+}
+h1+div+p {
+    margin-left: 6%;
+}
